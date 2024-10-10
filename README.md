@@ -5,7 +5,6 @@ This project involves performance testing of the [reqRes](https://reqres.in/) AP
 
 ## Tools Used
 - **JMeter**: For performance and load testing.
-- **Newman**: For command-line reporting and execution.
 - **HTML Report**: Generated via JMeter's reporting dashboard for visualization.
 
 ## Test Plan and Strategy
